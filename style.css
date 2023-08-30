@@ -1,0 +1,8 @@
+.typing-container {
+    color: chartreuse;
+    text-align: center;
+    font-size: 40px;
+    font-family: Arial, sans-serif;
+    padding: 20px;
+    /* border: 1px solid #ccc; */
+}
